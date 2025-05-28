@@ -13,9 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //      insertStudentRecords()
-        retriveStudentRecords()
+//        retriveStudentRecords()
         deleteStudentRecords()
-        retriveStudentRecords()
+//        retriveStudentRecords()
     }
     
     func insertStudentRecords(){
